@@ -6,19 +6,19 @@ body {
     text-transform:uppercase;
 }
 #header div{
-    font-size:35px;
+    font-size:40px;
     color:white;
 }
 #header img{
     text-align:center;
 }
 #footer div{
-    font-size:25px;
+    font-size:35px;
     color:yellow;
 }
 #footer span{
     color:white;
-    font-size:30px;
+    font-size:40px;
 }
 
 
